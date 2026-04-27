@@ -1,0 +1,19 @@
+body {
+   font-family: Arial, sans-serif;
+   text-align: center;
+   background-color: #f4f4f4;
+}
+.container {
+   margin-top: 100px;
+}
+#box {
+   width: 200px;
+   height: 200px;
+   margin: 20px auto;
+   background-color: red;
+   cursor: pointer;
+}
+button {
+   padding: 10px 20px;
+   font-size: 16px;
+}
